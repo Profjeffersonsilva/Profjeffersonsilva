@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 📘 
 
-<!--
-**Profjeffersonsilva/Profjeffersonsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jefferson Silva
 
-Here are some ideas to get you started:
+- Estou [Alurando](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Aqui nesse espaço utilizo e compatilho os meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### você pode entrar em contato comigo 📫
+
+ Jefferson.silva.cruz.adm@gmail.com
+
+ @jeffersonsilva
+
+ ![](https://media.tenor.com/i6ne4yhabBMAAAAM/nicky-ricky-dicky-dawn-gym-class.gif)
+
